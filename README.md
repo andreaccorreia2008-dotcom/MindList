@@ -33,6 +33,6 @@ Categorias e prioridades de tarefas;
 Estatísticas de produtividade.
 Autor
 
-Desenvolvido por [O Teu Nome]
+Desenvolvido por Andre Correia
 
 PAP 2025/2026
